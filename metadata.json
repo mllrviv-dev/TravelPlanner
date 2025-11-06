@@ -1,0 +1,5 @@
+{
+  "name": "Travel Planner Landing Page",
+  "description": "A responsive landing page for a travel planner application, designed to showcase its features and encourage users to purchase. The page is built with React and Tailwind CSS, replicating a modern and clean design provided by the user.",
+  "requestFramePermissions": []
+}
