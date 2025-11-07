@@ -51,7 +51,7 @@ const SolutionSection: React.FC = () => (
   <section className="bg-white py-16 md:py-28">
     <div className="container mx-auto max-w-6xl px-4">
       <div className="flex flex-col items-center text-center mb-12">
-        <img src="https://picsum.photos/seed/travellogo/180/50" alt="Travel Planner Logo" className="h-auto w-48" />
+        <img src="/images/travel-planner-logo.png" alt="Travel Planner Logo" className="h-auto w-48" />
       </div>
       <div className="grid lg:grid-cols-5 gap-12 lg:gap-24 items-center">
         <div className="lg:col-span-3 text-center lg:text-left">
@@ -62,7 +62,7 @@ const SolutionSection: React.FC = () => (
         </div>
         <div className="lg:col-span-2">
           <img 
-            src="https://picsum.photos/seed/woman-travel/600/800" 
+            src="/images/woman-traveling.jpg" 
             alt="Woman looking at her phone while traveling" 
             className="w-full h-auto object-cover rounded-xl"
           />
